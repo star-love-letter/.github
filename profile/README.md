@@ -1,4 +1,4 @@
-<p align="center">![星愿表白墙](/img/logo.png)</p>
+<p align="center"><img src="/img/logo.png" height="200" alt="星愿墙"></p>
 
 
 
