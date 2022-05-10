@@ -1,4 +1,4 @@
-<p align="center"><img src="/img/logo.png" height="150" alt="星愿墙"></p>
+<p align="center"><img src="/img/logo.png" height="80" alt="星愿墙"></p>
 
 
 
